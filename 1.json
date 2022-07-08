@@ -1,5 +1,35 @@
 {
-    "name": "POPP",
-    "description": "Your popp token",
-    "image": "https://d33nlpvb816ahw.cloudfront.net/64e3c889-e04c-433b-ab30-ba6c2e0e5cd6/images/1.png",
+  "name": "Coinye  #58",
+  "description": "An ode to the fish",
+  "image": "https://gateway.pinata.cloud/ipfs/QmSSvzcYLgAhtb7t3kAaAaYC13VuiG9pWmeMSJccDo8JZW/58.png",
+  "dna": "1c744689bcce22b89a6b88f3536f8277f67305aa",
+  "edition": 58,
+  "date": 1643732149553,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Fish",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Pale"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Teeth",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Extras",
+      "value": "Chain"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
 }
